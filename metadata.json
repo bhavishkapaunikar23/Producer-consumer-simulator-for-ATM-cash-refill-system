@@ -1,0 +1,8 @@
+{
+  "name": "ATM Producer-Consumer OS Simulator",
+  "description": "Interactive Operating Systems Producer-Consumer problem simulator demonstrating bounded buffer synchronization, semaphores, mutex locks, and race conditions through an ATM cash refill system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
